@@ -1,7 +1,6 @@
-#![](https://komarev.com/ghpvc/?username=Armaan-Dhaliwal)
 
 <h1 align="center">Hi 👋, I'm Armaan Singh Dhaliwal</h1>
-<h3 align="center">An Computer Science Undergrad Student at Thapar University, Patiala, India</h3>
+<h3 align="center">A 3rd Year Computer Science Undergrad Student at Thapar University, Patiala, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armaan-dhaliwal&label=Profile%20views&color=da1010&style=plastic" alt="armaan-dhaliwal" /> </p>
 
