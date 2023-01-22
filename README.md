@@ -1,6 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Armaan Singh Dhaliwal</h1>
-<h3 align="center">A 3rd Year Computer Science Undergrad Student at Thapar University, Patiala, India</h3>
+<h3 align="center">A Computer Engineering Undergrad Student at Thapar University, Patiala, India</h3>
+(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armaan-dhaliwal&label=Profile%20views&color=da1010&style=plastic" alt="armaan-dhaliwal" /> </p>
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/armaan-singh-dhaliwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/armaan-singh-dhaliwal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/armaan-singh-dhaliwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armaan-singh-dhaliwal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
