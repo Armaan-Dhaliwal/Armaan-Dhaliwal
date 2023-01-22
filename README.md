@@ -1,3 +1,4 @@
+[![MasterHead](https://repository-images.githubusercontent.com/245572380/df273280-6199-11ea-8094-2ed33e74c34f)]
 <h1 align="center">Hi 👋, I'm Armaan Singh Dhaliwal</h1>
 <h3 align="center">A Computer Engineering Undergrad Student at Thapar University, Patiala, India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
