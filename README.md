@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Armaan Singh Dhaliwal</h1>
 <h3 align="center">A Computer Engineering Undergrad Student at Thapar University, Patiala, India</h3>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC")
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armaan-dhaliwal&label=Profile%20views&color=da1010&style=plastic" alt="armaan-dhaliwal" /> </p>
 
